@@ -1,0 +1,27 @@
+{
+  "name": "djangovue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "axios": "^0.21.0",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.1",
+    "lodash": "^4.17.20",
+    "style-loader": "^2.0.0",
+    "vue": "^2.6.12",
+    "vue-loader": "^15.9.5",
+    "vue-template-compiler": "^2.6.12",
+    "webpack": "^5.10.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  }
+}

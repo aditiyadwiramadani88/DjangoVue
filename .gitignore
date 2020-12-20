@@ -1,0 +1,6 @@
+/node_modules/
+/Blog/__pycache__/
+/DjangoVue/__pycache__/
+/Blog/migrations/__pycache__/
+/.vscode/
+/static/
